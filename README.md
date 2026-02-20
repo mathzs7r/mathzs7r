@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/mathzs7r/mathzs7r/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <img
     align="left"
     alt="HTML"
