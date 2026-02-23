@@ -6,9 +6,11 @@
 <img src="https://raw.githubusercontent.com/mathzs7r/mathzs7r/output/snake.svg" alt="Snake animation" />
 
 ###
-#Matheus Almeida
-#Desinvolvimento de Sistema
-#Codar / Jogar
+
+<h2 align="center">Matheus Almeida</h2>
+<h3 align="center">Desenvolvimento de Sistemas</h3>
+<h4 align="center">Codar / Jogar 🎮💻</h4>
+
 <img
     align="left"
     alt="HTML"
