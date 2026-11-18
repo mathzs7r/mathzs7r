@@ -43,7 +43,7 @@ Estou em constante evolução como desenvolvedor. Atualmente curso **Programaç�
 | [Direitos-Humanos](https://github.com/mathzs7r/Direitos-Humanos) | Site educativo sobre direitos humanos, povos indígenas e desigualdade | HTML, CSS, JS |
 | [Ferreiro](https://github.com/mathzs7r/Ferreiro) | Site / ferramenta web | HTML, CSS |
 | [oca-do-indio](https://github.com/mathzs7r/oca-do-indio) | Projeto web | JavaScript |
-| [PlanetaDosMacacos](https://github.com/mathzs7r/PlanetaDosMacacos) | Projeto web | JavaScript |
+| [jogo-macaos](https://github.com/mathzs7r/jogo-macaos) | Projeto web | JavaScript |
 
 ---
 
