@@ -47,6 +47,12 @@ Estou em constante evolução como desenvolvedor. Atualmente curso **Programaç�
 
 ---
 
+## 🌐 Portfólio
+
+Site de portfólio: <https://mathzs7r.github.io/portfolio/> — com projetos, stack e contato.
+
+---
+
 ## 📊 Estatísticas
 
 <div align="center">
